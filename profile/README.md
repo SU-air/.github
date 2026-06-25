@@ -23,7 +23,8 @@ Suggested structure for our repositories:
 - `education` – courses, lectures, assignments  
 - `modelling` – numerical models, simulations, ML work  
 - `experiment` – lab work, instrumentation  
-- `infrastructure` – reading functions, other templates  
+- `infrastructure` – reading functions, other templates
+- `instrumentation` – codes for instruments we use in our lab
 
 ### Examples
 - `education-course-ACP-2025`
