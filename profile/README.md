@@ -22,9 +22,10 @@ Suggested structure for our repositories:
 ### Categories
 - `education` – courses, lectures, assignments  
 - `modelling` – numerical models, simulations, ML work  
-- `experiment` – lab work, instrumentation  
+- `experiment` – lab or field work 
 - `infrastructure` – reading functions, other templates
 - `instrumentation` – codes for instruments we use in our lab
+- `publication` - codes from individual publications and studies
 
 ### Examples
 - `education-course-ACP-2025`
