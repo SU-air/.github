@@ -38,3 +38,13 @@ Suggested structure for our repositories:
 - `src/` – code  
 - `notebooks/` – Jupyter notebooks  
 - `tests/` – tests  
+
+
+## How to fork? 
+
+1. Go to your repository. Clock 'Fork' in the upper right corner (next to 'Star') <img width="538" height="221" alt="image" src="https://github.com/user-attachments/assets/886867c8-f493-4611-8960-42ab8e9c7924" />
+
+2. Now click on Owner and choose 'SU-air', then rename the repo according to our naming conventions (see above) and click 'Create fork'. <img width="516" height="356" alt="image" src="https://github.com/user-attachments/assets/31a2b203-3c64-40d0-ac78-e5edac8384d9" />
+3. You're done!
+
+3. 
